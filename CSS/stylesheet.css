@@ -2,12 +2,17 @@
 img {
     weight: 500px;
     height: 400px;
+    
 }
 
+a {
+    text-decoration: none;
+}
 
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
+    line-height: 40%;
 }
 
 li {
@@ -20,4 +25,11 @@ h2 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     font-style: oblique;
+    text-decoration: underline;
+    line-height: 50%;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
 }
